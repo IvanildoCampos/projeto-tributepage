@@ -39,6 +39,7 @@ body {
 .img {
     text-align: center;
     align-items: center;
+    border-radius: 5px;
 }
 
 .legend {
@@ -68,6 +69,7 @@ body {
 .footer {
    background-color: blueviolet;
    color: #dddddd;
+   border-radius: 5px;
 }
 
 .footer a {
