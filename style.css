@@ -82,3 +82,7 @@ body {
 .footer a {
     color: white;
 }
+
+footer .reference {
+    color: rgb(190, 182, 170);
+}
